@@ -1,2 +1,2 @@
 # CRM
-Gestionnaire de contacts
+Gestionnaire de contacts avec interface graphique de base
